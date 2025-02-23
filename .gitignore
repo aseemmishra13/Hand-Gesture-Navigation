@@ -2,8 +2,14 @@ CollectedImages/
 .DS_Store
 labels/
 test/
-train/
 yolov5/runs/detect/exp20/
 yolov5/five_screenshot_24.04.2024.png
 yolov5/runs/detect/exp21/
 yolov5/runs/detect/exp26/
+HandGestureDataset1/
+HandGestureDataset2/
+HandGestureDataset3/
+HandGestureDataset4/
+HandGestureDataset5/
+HandGestureDataset6/
+images/
